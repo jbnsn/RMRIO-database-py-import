@@ -33,4 +33,5 @@ rmrio_db_importer = rmrio.rmrio_import(
     )
 ```
 
+# Preview ([in Spyder IDE](https://spyder-ide.org/))
 ![RMRIO_A_head](/readme/RMRIO_A_head.png)
