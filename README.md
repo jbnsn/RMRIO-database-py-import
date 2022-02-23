@@ -11,7 +11,7 @@ Download the RMRIO database via: https://zenodo.org/record/3993659
 
 Author of this script is jonas.bunsen@tu-berlin.de
 
-If you use this script in your work I'd appreciate a reference to this repository.
+If you use this script in your work I'd appreciate a subtle reference to this repository.
 
 # Instructions
 
