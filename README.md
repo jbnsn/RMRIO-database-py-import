@@ -4,7 +4,8 @@ This script allows for importing and indexing the RMRIO database files (*.mat-fi
 
 > *"A highly resolved MRIO database for analyzing environmental footprints and
 Green Economy Progress"*
-Y Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database for Analyzing Environmental Footprints and Green Economy Progress’. Science of The Total Environment 755 (February): 142587. https://doi.org/10.1016/j.scitotenv.2020.142587.
+>
+> Y Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database for Analyzing Environmental Footprints and Green Economy Progress’. Science of The Total Environment 755 (February): 142587. https://doi.org/10.1016/j.scitotenv.2020.142587.
 
 Download the RMRIO database via: https://zenodo.org/record/3993659
 
