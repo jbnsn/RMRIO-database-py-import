@@ -1,8 +1,5 @@
 """Pandas import of the RMRIO database.
 
-"A highly resolved MRIO database for analyzing environmental footprints and
-Green Economy Progress"
-
 Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database
 for Analyzing Environmental Footprints and Green Economy Progress’.
 Science of The Total Environment 755 (February): 142587.
@@ -11,16 +8,6 @@ https://doi.org/10.1016/j.scitotenv.2020.142587.
 Download the RMRIO database via: https://zenodo.org/record/3993659
 
 Author of this script is jonas.bunsen@tu-berlin.de
-
-# Instructions
-
-Download the RMRIO database and RMRIO labels for a specific year from
-Zenodo.org
-
-    - Year_YYYY_RMRIO.zip
-    - Labels_RMRIO.zip
-    
-Extract the *.zip-files into a folder with this script and you're good to go.
 
 """
 
@@ -31,7 +18,9 @@ from pyrmrio import rmrio # See file pyrmrio/rmrio.py
 
 # %% Change working directory (optional)
 
-os.chdir()
+if False:
+    
+    os.chdir("C:/Users/Username/WorkingDirectory/")
 
 # %% Load RMRIO class
 
@@ -40,9 +29,8 @@ os.chdir()
 # /rmrio-data/Year_YYYY_RMRIO/Year_YYYY_RMRIO/
 
 rmrio_db_importer = rmrio.rmrio_import(   
-    # (Optional) parameters
-    # rmrio_file_path = STRING; Default: "rmrio-data/";
-    # rmrio_year = INT; Default: 2015;
+    rmrio_file_path = "rmrio-data/", # Default: "rmrio-data-bla/"
+    rmrio_year = 2015 # Default: 2015
     )
 
 # %% Import RMRIO database indices
