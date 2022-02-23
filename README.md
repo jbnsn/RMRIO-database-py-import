@@ -33,4 +33,4 @@ rmrio_db_importer = rmrio.rmrio_import(
     )
 ```
 
-[RMRIO_A_head](/readme/RMRIO_A_head.png)
+![RMRIO_A_head](/readme/RMRIO_A_head.png)
