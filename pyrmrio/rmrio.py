@@ -59,6 +59,7 @@ class rmrio_import():
             )
         
         # 9 extensions
+        
         self.extension_idx = mat73.loadmat(
             f"{self.rmrio_file_path}/"
             "Labels_RMRIO/Labels_RMRIO/Labels_Extensions_RMRIO.mat"
