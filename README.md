@@ -19,7 +19,7 @@ If you use this script I'd appreciate a reference to this repository.
 # Instructions
 
 Download the RMRIO database and RMRIO labels for a specific year from
-Zenodo.org
+[Zenodo.org](https://zenodo.org/record/3993659):
 
 - Year_YYYY_RMRIO.zip
 - Labels_RMRIO.zip
