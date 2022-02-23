@@ -18,7 +18,7 @@ from pyrmrio import rmrio # See file pyrmrio/rmrio.py
 
 # %% Change working directory (optional)
 
-if False:
+if False: # Change flag to set working directory
     
     os.chdir("C:/Users/Username/WorkingDirectory/")
 
@@ -29,7 +29,7 @@ if False:
 # /rmrio-data/Year_YYYY_RMRIO/Year_YYYY_RMRIO/
 
 rmrio_db_importer = rmrio.rmrio_import(   
-    rmrio_file_path = "rmrio-data/", # Default: "rmrio-data-bla/"
+    rmrio_file_path = "rmrio-data/", # Default: "rmrio-data/"
     rmrio_year = 2015 # Default: 2015
     )
 
