@@ -9,7 +9,7 @@ Green Economy Progress**
 >
 > Download RMRIO via: https://zenodo.org/record/3993659
 
-Author of this script is jonas.bunsen@tu-berlin.de
+Author of this script (not the RMRIO database) is jonas.bunsen@tu-berlin.de
 
 # Instructions
 
