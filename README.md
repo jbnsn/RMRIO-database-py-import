@@ -22,7 +22,7 @@ Zenodo.org
 - Year_YYYY_RMRIO.zip
 - Labels_RMRIO.zip
     
-Extract the *.zip-files into the folder `rmrio-data` with this script and you're good to go. Alternatively, load the class `rmrio_import` with the parameter `rmrio_file_path` and `rmrio_year` specified:
+Extract the *.zip-files into the folder `rmrio-data` and you're good to go. Alternatively, load the class `rmrio_import` with the parameter `rmrio_file_path` and `rmrio_year` specified:
 
 ```Python
 rmrio_db_importer = rmrio.rmrio_import(   
