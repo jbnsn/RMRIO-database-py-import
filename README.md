@@ -11,8 +11,6 @@ Green Economy Progress**
 
 Author of this script is jonas.bunsen@tu-berlin.de
 
-If you use this script in your work I'd appreciate a subtle reference to this repository.
-
 # Instructions
 
 Download the RMRIO database and RMRIO labels for a specific year from
