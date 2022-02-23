@@ -32,3 +32,5 @@ rmrio_db_importer = rmrio.rmrio_import(
     rmrio_year = 2015
     )
 ```
+
+[RMRIO_A_head](readme/RMRIO_A_head.png)
