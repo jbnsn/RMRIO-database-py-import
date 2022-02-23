@@ -1,9 +1,9 @@
 # Importing the RMRIO database in Python
 
-This script allows for importing the RMRIO database (*.mat-files) in Python.
+This script allows for importing the indexed RMRIO database (*.mat-files) in Python (Pandas).
 
-"A highly resolved MRIO database for analyzing environmental footprints and
-Green Economy Progress"
+*"A highly resolved MRIO database for analyzing environmental footprints and
+Green Economy Progress"*
 
 Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database
 for Analyzing Environmental Footprints and Green Economy Progress’.
@@ -13,6 +13,8 @@ https://doi.org/10.1016/j.scitotenv.2020.142587.
 Download the RMRIO database via: https://zenodo.org/record/3993659
 
 Author of this script is jonas.bunsen@tu-berlin.de
+
+If you use this script I'd appreciate a reference to this repository.
 
 # Instructions
 
