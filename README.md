@@ -1,6 +1,6 @@
 # Importing the RMRIO database in Python
 
-This script allows for importing and indexing the RMRIO database files (*.mat-files) in Python as Pandas DataFrames.
+This script allows for importing and indexing the RMRIO database files (_*.mat-files_) in Python as Pandas DataFrames.
 
 > **RMRIO: A highly resolved MRIO database for analyzing environmental footprints and
 Green Economy Progress**
@@ -19,7 +19,7 @@ Download the RMRIO database and RMRIO labels for a specific year from
 - Year_YYYY_RMRIO.zip
 - Labels_RMRIO.zip
     
-Extract the *.zip-files into the folder `rmrio-data` and run `main.py`. The class `rmrio_import` can optionally be loaded in `main.py` with the parameters `rmrio_file_path` and `rmrio_year` specified e.g.
+Extract the *.zip-files into the folder `rmrio-data` and run `main.py`. The class `rmrio_import` can be loaded in `main.py` with the optional parameters `rmrio_file_path` and `rmrio_year` specified e.g.
 
 ```Python
 rmrio_db_importer = rmrio.rmrio_import(   
