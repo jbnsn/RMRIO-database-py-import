@@ -5,11 +5,13 @@ This script allows for importing and indexing the RMRIO database files (_*.mat-f
 > **RMRIO: A highly resolved MRIO database for analyzing environmental footprints and
 Green Economy Progress**
 >
-> Y Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database for Analyzing Environmental Footprints and Green Economy Progress’. Science of The Total Environment 755 (February): 142587. https://doi.org/10.1016/j.scitotenv.2020.142587.
+> Cabernard, Livia, and Stephan Pfister. 2021. ‘A Highly Resolved MRIO Database for Analyzing Environmental Footprints and Green Economy Progress’. Science of The Total Environment 755 (February): 142587. https://doi.org/10.1016/j.scitotenv.2020.142587.
 >
 > Download RMRIO via: https://zenodo.org/record/3993659
 
 Author of this script (not of the RMRIO database) is jonas.bunsen@tu-berlin.de
+
+**Note:** This module for importing the RMRIO database is not to be mistaken with the package [`pymrio`](https://github.com/konstantinstadler/pymrio) for importing some of the most common MRIO databases and for conducting MRIO-analyses.
 
 # Instructions
 
