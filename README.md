@@ -11,7 +11,7 @@ Green Economy Progress**
 
 Author of this script (not of the RMRIO database) is jonas.bunsen@tu-berlin.de
 
-**Note:** This module for importing the RMRIO database is not to be mistaken with the package [`pymrio`](https://github.com/konstantinstadler/pymrio) for importing some of the most common MRIO databases and for conducting MRIO-analyses.
+**Note:** This module for importing the RMRIO database is not to be mistaken with the [package `pymrio`](https://github.com/konstantinstadler/pymrio) for importing some of the most common MRIO databases and for conducting MRIO-analyses.
 
 # Instructions
 
