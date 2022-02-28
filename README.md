@@ -1,6 +1,6 @@
 # Importing the RMRIO database in Python
 
-This script allows for importing and indexing the RMRIO database files (_*.mat-files_) in Python as Pandas DataFrames. See below for [instructions](#instructions.).
+This script allows for importing and indexing the RMRIO database files (_*.mat-files_) in Python as Pandas DataFrames. See below for [instructions](#instructions).
 
 > **RMRIO: A highly resolved MRIO database for analyzing environmental footprints and
 Green Economy Progress**
