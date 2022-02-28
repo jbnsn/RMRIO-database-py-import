@@ -9,6 +9,10 @@ Download the RMRIO database via: https://zenodo.org/record/3993659
 
 Author of this script is jonas.bunsen@tu-berlin.de
 
+Github page: https://github.com/jbnsn/RMRIO-database-py-import
+
+Version: 1.0
+
 """
 
 import numpy as np
