@@ -21,11 +21,11 @@ Download the RMRIO database and RMRIO labels for a specific year from
 1. Year_YYYY_RMRIO.zip
 2. Labels_RMRIO.zip
     
-Extract the *.zip-files into the folder `rmrio-data` and run `main.py`.
+Extract the *.zip-files into the folder `rmrio-data` and run `main.py`. In the example given in the screenshot below, the file `main.py` is located in a folder named ``RMRIO.
 
 ![files](/readme-supplementary/filepaths.png)
 
-The class `rmrio_import` can be loaded in `main.py` with the optional parameters `rmrio_file_path` and `rmrio_year` specified e.g.
+Alternatively, the class `rmrio_import` can be loaded in `main.py` with the optional parameters `rmrio_file_path` and `rmrio_year` specified e.g.
 
 ```Python
 rmrio_db_importer = rmrio.rmrio_import(   
