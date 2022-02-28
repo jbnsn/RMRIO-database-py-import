@@ -29,8 +29,8 @@ Alternatively, the class `rmrio_import` can be loaded in `main.py` with the opti
 
 ```Python
 rmrio_db_importer = rmrio.rmrio_import(   
-    rmrio_file_path = "path/to/RMRIO/",
-    rmrio_year = 2015
+    rmrio_file_path = "path/to/RMRIO/", # Default: "rmrio-data/"
+    rmrio_year = 2015 # Default: 2015
     )
 ```
 
