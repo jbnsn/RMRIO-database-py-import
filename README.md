@@ -35,4 +35,9 @@ rmrio_db_importer = rmrio.rmrio_import(
 ```
 
 # Preview ([in Spyder IDE](https://spyder-ide.org/))
+
+## Spyder IDE Variable Explorer
+![RMRIO_A_head](/readme-supplementary/variable_explorer.png)
+
+## A-Matrix
 ![RMRIO_A_head](/readme-supplementary/RMRIO_A_head.png)
