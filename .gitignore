@@ -1,3 +1,12 @@
 *.DS_Store
-*.mat
 *.pyc
+rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Countries_RMRIO.mat
+rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Extensions_RMRIO.mat
+rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_FinalDemand_RMRIO.mat
+rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Production_RMRIO.mat
+rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Sectors_RMRIO.mat
+rmrio-data/Year_2015_RMRIO/Year_2015_RMRIO/A_RMRIO.mat
+rmrio-data/Year_2015_RMRIO/Year_2015_RMRIO/Ext_hh_RMRIO.mat
+rmrio-data/Year_2015_RMRIO/Year_2015_RMRIO/Ext_RMRIO.mat
+rmrio-data/Year_2015_RMRIO/Year_2015_RMRIO/TotalOut_RMRIO.mat
+rmrio-data/Year_2015_RMRIO/Year_2015_RMRIO/Y_RMRIO.mat
