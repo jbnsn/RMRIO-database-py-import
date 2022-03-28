@@ -1,4 +1,5 @@
 *.DS_Store
+*.mat
 *.pyc
 rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Countries_RMRIO.mat
 rmrio-data/Labels_RMRIO/Labels_RMRIO/Labels_Extensions_RMRIO.mat
